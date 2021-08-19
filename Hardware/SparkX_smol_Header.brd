@@ -18,34 +18,34 @@
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="57" fill="1" visible="no" active="yes"/>
-<layer number="26" name="bNames" color="57" fill="1" visible="no" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
-<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="57" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="57" fill="1" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="63" fill="1" visible="no" active="no"/>
 <layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
 <layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
@@ -205,15 +205,6 @@ HASL Finish
 <dimension x1="1.524" y1="30.48" x2="9.144" y2="30.48" x3="5.334" y3="44.45" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="1.524" y1="12.7" x2="0" y2="0" x3="-2.540003125" y3="6.35" textsize="1.778" textratio="15" layer="47" dtype="vertical" unit="inch"/>
 <dimension x1="1.524" y1="30.48" x2="1.524" y2="27.94" x3="-2.540003125" y3="29.21" textsize="1.778" textratio="15" layer="47" dtype="vertical" unit="inch"/>
-<polygon width="0.0762" layer="21">
-<vertex x="5.334" y="6.604"/>
-<vertex x="2.794" y="5.588"/>
-<vertex x="2.54" y="5.588"/>
-<vertex x="4.572" y="7.366"/>
-<vertex x="6.096" y="7.366"/>
-<vertex x="8.128" y="5.588"/>
-<vertex x="7.874" y="5.588"/>
-</polygon>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -932,6 +923,19 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="-1.6367" y="0.268225"/>
 <vertex x="-1.584884375" y="0.241403125"/>
 <vertex x="-1.57284375" y="0.225475"/>
+</polygon>
+</package>
+<package name="SMOL_SMALL">
+<polygon width="0.01" layer="21">
+<vertex x="0" y="0.01"/>
+<vertex x="1.78" y="-1.13"/>
+<vertex x="1.91" y="-1.13"/>
+<vertex x="0.26" y="0.64"/>
+<vertex x="0.25" y="0.65"/>
+<vertex x="-0.25" y="0.65"/>
+<vertex x="-0.25" y="0.64"/>
+<vertex x="-1.9" y="-1.13"/>
+<vertex x="-1.78" y="-1.13"/>
 </polygon>
 </package>
 </packages>
@@ -5684,6 +5688,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$13" library="output" package="SM�L_HEADER0" value="" x="5.334" y="8.3185" smashed="yes"/>
 <element name="U$21" library="output" package="SM�L_HEADER0" value="" x="5.334" y="5.588" smashed="yes" rot="MR0"/>
 <element name="U$37" library="output" package="OUT0" value="" x="5.334" y="5.08" smashed="yes"/>
+<element name="U$39" library="SparkX" package="SMOL_SMALL" value="SMOL_LOGOSMALL" x="5.334" y="6.9215" smashed="yes"/>
 </elements>
 <signals>
 <signal name="GND">
