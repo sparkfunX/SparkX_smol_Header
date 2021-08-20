@@ -12778,7 +12778,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="278.13" y1="160.02" x2="88.9" y2="160.02" width="0.2032" layer="97" style="longdash"/>
 <wire x1="201.93" y1="160.02" x2="201.93" y2="279.4" width="0.2032" layer="97" style="longdash"/>
 <wire x1="88.9" y1="160.02" x2="0" y2="160.02" width="0.2032" layer="97" style="longdash"/>
-<text x="6.604" y="268.732" size="5.08" layer="94">EZ Connector</text>
+<text x="6.604" y="268.732" size="5.08" layer="94">smôl Connector</text>
 <text x="56.642" y="218.44" size="2.54" layer="97" font="vector" rot="R270">Top</text>
 <text x="96.774" y="268.732" size="5.08" layer="94">Header</text>
 <text x="211.074" y="268.732" size="5.08" layer="94">Qwiic</text>
