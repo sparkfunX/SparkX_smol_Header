@@ -1,13 +1,11 @@
 # SparkX smôl Header
 
-[![SparkX smôl Header (SPX-18361)]()](https://www.sparkfun.com/products/18361)
+[![SparkX smôl Header (SPX-18620)](https://cdn.sparkfun.com/assets/parts/1/8/1/1/8/18620-smo__l_Header-01.jpg)](https://www.sparkfun.com/products/18620)
 
-[*SparkX smôl Header (SPX-18361)*](https://www.sparkfun.com/products/18361)
+[*SparkX smôl Header (SPX-18620)*](https://www.sparkfun.com/products/18620)
 
 A header to break out the smôl FPC connections.
 
-![Top.png](./img/Top.png)
-![Bottom.png](./img/Bottom.png)
 ![Dimensions.png](./img/Dimensions.png)
 
 ## Repository Contents
@@ -17,7 +15,7 @@ A header to break out the smôl FPC connections.
 
 ## Product Versions
 
-- [SPX-18361](https://www.sparkfun.com/products/18361) - Original SparkX Release.
+- [SPX-18620](https://www.sparkfun.com/products/18620) - Original SparkX Release.
 
 ## License Information
 
